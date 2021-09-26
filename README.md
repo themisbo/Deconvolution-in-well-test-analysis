@@ -9,3 +9,5 @@ Parts of the code in this repository are omitted for copyright-related reasons. 
 * __01a - 05b__ vizualization scripts
 
 The first MCMC variation (CHARM) is acting as an optimization step, in order to find the MAP. The second MCMC variation (DEzs) is using information from the previous step in order to retrieve the posterior distribution.
+
+Indicative figures from the code are included in the [plots folder](plots/).
